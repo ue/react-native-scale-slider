@@ -61,7 +61,7 @@
     "prop-types": "^15.5.10",
     "react-dom": "^15.5.4",
     "react-native-mock": "^0.3.1",
-    "semantic-release": "^15.13.3",
+    "semantic-release": "^17.2.3",
     "@ptomasroos/react-native-multi-slider": "^1.0.0"
   },
   "lint-staged": {
